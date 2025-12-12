@@ -1,1 +1,1 @@
-print ("Merhaba Githup bu benim ilk python dosyam!")
+print ("Merhaba Githup bu benim ilk python dosyam!") 
